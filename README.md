@@ -24,7 +24,7 @@ Hi! I'm **Md Shakib Hasan**, an aspiring **Full-Stack Web Developer** from Mirpu
 ## 📍 Location & Contact
 
 * 📍 **Location:** Mirpur, Dhaka, Bangladesh
-* 📧 **Email:** [shsohan2050@gmail.com](mailto:shsohan2050@gmail.com)
+* 📧 **Email:** [shsohan200@gmail.com](mailto:shsohan200@gmail.com)
 
 ## 🛠️ Skills & Technologies
 
