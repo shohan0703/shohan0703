@@ -12,30 +12,42 @@
 
 Hi! I'm **Md Shakib Hasan**, an aspiring **Full-Stack Web Developer** from Mirpur, Dhaka.
 
-- 🌱 Currently learning **Tailwind CSS**
-- 💻 Skilled in **JavaScript & TypeScript**
-- 🌐 Interested in modern **Frontend & Full-Stack Web Development**
-- 🚀 I enjoy building projects and learning through practical experience
-- 🧠 Always working to improve my coding and problem-solving skills
-- 🎯 My goal is to become a professional **Full-Stack Developer**
+* 🌱 Currently learning **Better Auth**
+* ⚛️ Working with **React & Next.js**
+* 💻 Skilled in **JavaScript & TypeScript**
+* 🎨 Experienced with **Tailwind CSS**
+* 🌐 Interested in modern **Frontend & Full-Stack Web Development**
+* 🚀 I enjoy building real-world projects and learning through practical experience
+* 🧠 Always working to improve my coding and problem-solving skills
+* 🎯 My goal is to become a professional **Full-Stack Developer**
 
 ## 📍 Location & Contact
 
-- 📍 **Location:** Mirpur, Dhaka, Bangladesh
-- 📧 **Email:** [shsohan2050@gmail.com](mailto:shsohan2050@gmail.com)
+* 📍 **Location:** Mirpur, Dhaka, Bangladesh
+* 📧 **Email:** [shsohan2050@gmail.com](mailto:shsohan2050@gmail.com)
 
 ## 🛠️ Skills & Technologies
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java" alt="Languages"/>
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,react" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs" alt="Frontend Technologies"/>
+</p>
+
+### Backend & Authentication
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=auth0&logoColor=white" alt="Better Auth"/>
 </p>
 
 ### Tools
@@ -46,11 +58,12 @@ Hi! I'm **Md Shakib Hasan**, an aspiring **Full-Stack Web Developer** from Mirpu
 
 ## 🔭 Currently Working On
 
-- 🎨 Learning and practicing **Tailwind CSS**
-- 🌐 Building modern and responsive web projects
-- 📚 Strengthening my **JavaScript & TypeScript** skills
-- 🚀 Exploring modern frontend development
-- 🧩 Turning ideas into practical projects
+* 🔐 Learning and implementing **Better Auth**
+* ⚛️ Building applications with **React & Next.js**
+* 🎨 Creating modern and responsive interfaces with **Tailwind CSS**
+* 🚀 Building real-world web projects
+* 🧩 Turning ideas into practical applications
+* 📚 Continuously improving my **JavaScript & TypeScript** skills
 
 ## 📈 My Learning Journey
 
@@ -61,15 +74,15 @@ JavaScript
     ↓
 TypeScript
     ↓
-Tailwind CSS  ← Currently Learning
+Tailwind CSS
     ↓
 React
     ↓
-Node.js
+Next.js
     ↓
-Express.js
+Better Auth  ← Currently Learning
     ↓
-Database
+Backend & Database
     ↓
 Full-Stack Development 🚀
 ```
@@ -116,13 +129,18 @@ Full-Stack Development 🚀
 
 ## 🎯 Goals
 
-- [ ] Master Tailwind CSS
-- [ ] Learn React
-- [ ] Learn Node.js & Express.js
-- [ ] Learn databases
-- [ ] Build full-stack applications
-- [ ] Contribute to Open Source
-- [ ] Become a professional Full-Stack Developer
+* [x] Learn HTML & CSS
+* [x] Learn JavaScript
+* [x] Learn TypeScript
+* [x] Learn Tailwind CSS
+* [x] Learn React
+* [x] Learn Next.js
+* [ ] Master Better Auth
+* [ ] Learn Backend Development
+* [ ] Learn Databases
+* [ ] Build Full-Stack Applications
+* [ ] Contribute to Open Source
+* [ ] Become a Professional Full-Stack Developer
 
 ## 💡 Developer Philosophy
 
